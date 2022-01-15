@@ -20,5 +20,12 @@ The Rural and Suburban city types had rides that exceded the number of drivers. 
 ### Total Fares by City Type
 ![total_fares_by_city_type.png](https://github.com/Brandonkish1/PyBer_Analysis/blob/main/Analysis/total_fares_by_city_type.png)
 
+The graph shows that most of the fares earned were in Urban areas. 
+
+There seems to be more peaks in the data for the Urban city type, where fares were higher for a specific point in time. Its possible that the most successful urban drivers were driving during this time, and drivers that didn't provide any rides were not driving during these times.
 
 ## Summary
+One suggestion would be to make a program that encourages urban drivers to drive in rural and suburban areas. This would drive down the cost of rides for customers in non-urban areas and there are probably drivers that are willing to go to these areas because they didn't earn any money in urban areas.
+
+Another suggestion would be to provide drivers with information regarding peak times when customers are seeking rides. This might be helpful to some of the urban drivers that didn't provide any rides to customers. 
+
